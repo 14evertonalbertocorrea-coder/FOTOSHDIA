@@ -5,7 +5,7 @@ export default function StaticBeforeAfter() {
     {
       title: 'Restauração de Fotos de Bebê em Alta Definição',
       desc: 'Recupere os momentos mais fofos do seu bebê com foco perfeito nos olhos e pele super suave.',
-      imageUrl: '/src/assets/images/baby_portrait_1779484130101.png',
+      imageUrl: '/images/baby_portrait_1779484130101.png',
       beforeFilter: 'blur-[1.2px] brightness-[0.9] contrast-[0.85] saturate-[0.75]',
       beforeLabels: ['Olhar embaçado', 'Baixa iluminação', 'Ruídos de foto tremida'],
       afterLabels: ['Olhos super expressivos', 'Pele fofa e nítida', 'Brilho profissional'],
@@ -13,7 +13,7 @@ export default function StaticBeforeAfter() {
     {
       title: 'Colorização e Ajuste de Fotos Antigas',
       desc: 'Recuperando o aspect de época, adicionando cor vibrante e brilho realista.',
-      imageUrl: '/src/assets/images/vintage_car_memory_1779482302002.png',
+      imageUrl: '/images/vintage_car_memory_1779482302002.png',
       beforeFilter: 'sepia-[0.8] blur-[0.8px] contrast-[1.0] scale-[1.01] saturate-[0.5]',
       beforeLabels: ['Arranhões visuais', 'Desgastada e desbotada', 'Tons amarelados'],
       afterLabels: ['Cores vivas e ricas', 'Superfícies polidas HD', 'Nitidez fotográfica'],
@@ -21,7 +21,7 @@ export default function StaticBeforeAfter() {
     {
       title: 'Fotos de Comida e Cardápios para Restaurantes',
       desc: 'Deixe as fotos dos pratos do seu restaurante extremamente nítidas, com cores vibrantes e texturas realistas para encantar clientes no iFood e redes sociais.',
-      imageUrl: '/src/assets/images/gourmet_food_plate_1779484313597.png',
+      imageUrl: '/images/gourmet_food_plate_1779484313597.png',
       beforeFilter: 'blur-[1.2px] contrast-[0.85] brightness-[0.82] saturate-[0.65]',
       beforeLabels: ['Cores opacas e sem força', 'Falta de foco e textura', 'Iluminação amadora e fria'],
       afterLabels: ['Hambúrguer suculento em foco', 'Cores apetitosas e ricas', 'Pronto para vender mais'],
@@ -29,7 +29,7 @@ export default function StaticBeforeAfter() {
     {
       title: 'Nitidez Absoluta em Paisagens & Viagens',
       desc: 'Transformação de registros de viagens e natureza em cartões postais nítidos com cores e sombras balanceadas.',
-      imageUrl: '/src/assets/images/landscape_nature_1779483422678.png',
+      imageUrl: '/images/landscape_nature_1779483422678.png',
       beforeFilter: 'blur-[1.2px] saturate-[0.65] contrast-[0.85] brightness-[0.88]',
       beforeLabels: ['Cores desbotadas', 'Falta de nitidez no infinito', 'Névoa digital e ruídos'],
       afterLabels: ['Ultra HD com cores ricas', 'Contraste atmosférico', 'Detalhes perfeitos de relevo'],
@@ -37,7 +37,7 @@ export default function StaticBeforeAfter() {
     {
       title: 'Imagens de Produtos de Altíssima Conversão',
       desc: 'Valorize os detalhes, materiais e texturas das mercadorias de sua loja online com tratamento premium de estúdio.',
-      imageUrl: '/src/assets/images/product_watch_1779483438307.png',
+      imageUrl: '/images/product_watch_1779483438307.png',
       beforeFilter: 'blur-[1.5px] contrast-[0.8] brightness-[0.85] saturate-[0.8]',
       beforeLabels: ['Visual amador e desfocado', 'Falta de apelo premium', 'Foco ruim nas texturas'],
       afterLabels: ['Texturas metálicas nítidas', 'Iluminação profissional', 'Pronto para anúncios e e-commerce'],

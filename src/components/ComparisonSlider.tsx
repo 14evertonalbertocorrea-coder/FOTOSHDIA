@@ -9,7 +9,7 @@ const EXAMPLES: SliderExample[] = [
     category: 'Fotos de Bebê',
     title: 'Nitidez e Suavidade em Fotos de Bebês',
     subtitle: 'Recupere detalhes preciosos dos primeiros meses, suavizando ruídos e realçando o brilho do olhar.',
-    originalUrl: '/src/assets/images/baby_portrait_1779484130101.png',
+    originalUrl: '/images/baby_portrait_1779484130101.png',
     beforeFilterClass: 'blur-[1.2px] contrast-[0.85] saturate-[0.75] brightness-[0.9]'
   },
   {
@@ -17,7 +17,7 @@ const EXAMPLES: SliderExample[] = [
     category: 'Restaurar Foto Antiga',
     title: 'Revitalização de Fotos Antigas',
     subtitle: 'Eliminamos ruídos de scanner, ajustamos o contraste e restauramos cores quentes originais.',
-    originalUrl: '/src/assets/images/vintage_car_memory_1779482302002.png',
+    originalUrl: '/images/vintage_car_memory_1779482302002.png',
     beforeFilterClass: 'sepia-[0.75] contrast-[1.0] brightness-[0.85] blur-[0.8px] saturate-[0.5] opacity-[0.92]'
   },
   {
@@ -25,7 +25,7 @@ const EXAMPLES: SliderExample[] = [
     category: 'Pratos & Delivery',
     title: 'Fotos de Comidas e Cardápios',
     subtitle: 'Torne seus pratos, hambúrgueres e combos de restaurante extremamente apetitosos para o iFood e WhatsApp.',
-    originalUrl: '/src/assets/images/gourmet_food_plate_1779484313597.png',
+    originalUrl: '/images/gourmet_food_plate_1779484313597.png',
     beforeFilterClass: 'blur-[1.2px] contrast-[0.85] brightness-[0.82] saturate-[0.65]'
   },
   {
@@ -33,15 +33,15 @@ const EXAMPLES: SliderExample[] = [
     category: 'Paisagem & Viagem',
     title: 'Nitidez Extrema para Paisagens',
     subtitle: 'Deixe montanhas, florestas e águas cristalinas com contraste cromático rico e realismo 4K.',
-    originalUrl: '/src/assets/images/landscape_nature_1779483422678.png',
+    originalUrl: '/images/landscape_nature_1779483422678.png',
     beforeFilterClass: 'blur-[1.2px] saturate-[0.65] contrast-[0.85] brightness-[0.88]'
   },
   {
     id: 'product',
     category: 'Fotos de Produtos',
     title: 'Ajuste de Luz e Claridade para E-commerce',
-    subtitle: 'Aumente o valor percebido das suas mercadorias com iluminação de estúdio profissional.',
-    originalUrl: '/src/assets/images/product_watch_1779483438307.png',
+    subtitle: 'Aumente o value percebido das suas mercadorias com iluminação de estúdio profissional.',
+    originalUrl: '/images/product_watch_1779483438307.png',
     beforeFilterClass: 'blur-[1.5px] contrast-[0.8] brightness-[0.85] saturate-[0.8]'
   }
 ];
