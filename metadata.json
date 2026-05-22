@@ -1,0 +1,6 @@
+{
+  "name": "FotoHD AI",
+  "description": "Website profissional e moderno para venda de serviço de melhoramento de imagens com Inteligência Artificial via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
